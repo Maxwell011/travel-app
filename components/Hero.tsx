@@ -60,7 +60,6 @@ const Hero = () => {
             <div className="flexBetween">
                 <p className="regular-16 text-gray-20">Location</p>
                 <Image src="/close.svg" alt="close" width={24} height={24} />
-                </p>
             </div>
           </div>
         </div>
