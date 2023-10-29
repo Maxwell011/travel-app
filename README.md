@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Travel App 
 
-## Getting Started
+**Travel App** This a project that helps you discover new place for hike, guides you through it, and help you connect to similar people who like to explore new places.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Screenshots
+<!-- ![Project Screenshot](./public/portfolio-1-image.png)
+![Project Screenshot](./public/Portfolio-2-%20image.png) -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- ## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Home Listings:** Browse through a vast collection of homes available for sale and rent.
+- **Search and Filter:** Utilize powerful search and filtering options to find properties based on location, price range, amenities, and more.
+- **Property Details:** View detailed information about each property, including description, images, specifications, and contact information for the realtor or owner.
+- **Favorites:** Save properties to your favorites list for quick access and comparisons.
+- **User Accounts:** Sign up for an account to save preferences, receive personalized recommendations, and manage favorite properties.
+- **Map Integration:** Visualize property locations on an interactive map.
+- **Contact Realtor:** Easily get in touch with the listing realtor or property owner for inquiries and scheduling viewings. -->
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br/>
+💻 Getting Started
 
-## Learn More
+### Prerequisites
 
-To learn more about Next.js, take a look at the following resources:
+In order to run this project you need:
+- Visual Studio Code
+- Git
+- Next
+- React
+- Javascript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Installation
 
-## Deploy on Vercel
+To run the app locally, follow these steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    ```bash
+    git clone https://github.com/Maxwell011/my-new-portfolio.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd my-new-portfoli
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+5. Open your web browser and visit http://localhost:3000 to access the my-new-portfoli app.
+
+## Technologies Used
+
+- **Front-end:** HTML, CSS, JavaScript, React.js, Vite, Material UI, Font Awesome Icon, React Scroll 
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **ORJI MAXWELL**
+
+ - GitHub: [@githubhandle](https://github.com/Maxwell011)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-maxwell/)
+- Twitter: [Maxwellchu2Orji](https://Maxwellchu2Orji)
+
+## Contributing
+
+Contributions to the Realtor project are welcome! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request detailing your changes.
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+## Contact
+
+If you have any questions or suggestions regarding the Realtor project, please contact us at [email protected]
+
+Happy house hunting!
